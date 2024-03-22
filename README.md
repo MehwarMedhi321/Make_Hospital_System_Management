@@ -64,6 +64,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/8128a079-b960-472a-a6e3-c641b38849d3)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/148935fd-0eda-4393-9098-3187342b2964)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/e1d80b30-90a0-4210-9c1d-aafb96551fe6)
 ![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/c127a2d5-2d58-47d8-a6c3-4e2ea281a566)
+     ![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/3fa60d1b-0d6f-44e7-b174-451fa532e25a)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/7edfdd7d-0706-4e90-b3d8-5dadf73345e4)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/4a3b87a0-6adc-476f-9511-2561b1e3f13e)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/2a5a7c3e-5a4e-46b2-b2de-cb8b8bd083ab)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/65652a8a-9eee-4fcd-8304-7b3b6240d7ee)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/3bfc5287-8af6-44b5-b52d-1cd4f21b7e94)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/f68da5d9-7be6-4fa1-8939-6cbfc4df51d8)
+    ![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/b7165217-b01b-4797-a5d7-a82092046110)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/d5eff1b4-e7f5-480f-bf87-b7b7d57bd20f)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/cc931be2-cf8e-4624-9109-030bd151f362)
+![image](https://github.com/MehwarMedhi321/Make_Hospital_System_Management/assets/154052609/3d747827-f58e-4269-84e0-354fee88eeed)
 
